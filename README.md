@@ -25,7 +25,7 @@ Email Me 👉 ✉️ **harsh.ahelleya@gmail.com** For Collaboration/Project or A
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harshh0609&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harshh0609&theme=github_dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=harshh0609&theme=github_dark&hide_border=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshh0609&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
