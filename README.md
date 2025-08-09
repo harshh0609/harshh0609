@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **harsh.ahelleya@gmail.com** For Collaboration/Project or A
 - 🔭 **I’m currently working on:** AI integrated full stack apps
 - 🌱 **I’m currently learning:** AI integration in full-stack apps, Next.js, and building scalable cloud architectures.
 - 👯 **I’m looking to collaborate on:** Projects that challenge my skills, spark creativity, and make an impact.
-- 🤔 **I’m looking for help with:** AI_interview
+- 🤔 **I’m looking for help with:** AI_mock_interview project
 - 💬 **Ask me about:** Turning ideas into code, building modern web apps, and making AI work for your projects.
 - 📫 **How to reach me:** 📧 harsh.ahelleya@gmail.com  
 - ⚡ **Fun fact:** I still google my own Stack Overflow answers.
