@@ -37,4 +37,6 @@ Email Me 👉 ✉️ **harsh.ahelleya@gmail.com** For Collaboration/Project or A
 ---
 [![](https://visitcount.itsvg.in/api?id=harshh0609&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F5aTZwdTV0a253YWlmZmIyMG4yeHVrZXNoY3lpdnUyZnVseHdyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="500" alt="Coding GIF" />
+</p>
