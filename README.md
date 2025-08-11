@@ -29,7 +29,7 @@ Email Me 👉 ✉️ **harsh.ahelleya@gmail.com** For Collaboration/Project or A
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshh0609&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=30&v=1)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshh0609&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=harshh0609&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache_seconds=30)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
